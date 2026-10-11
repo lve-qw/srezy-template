@@ -1,0 +1,1 @@
+{"name": "cb_cf", "metric": "quantile_quality_x100", "folds": [13.27, 13.27, 12.87, 14.21, 13.49], "cv": 13.42, "std": 0.44}
